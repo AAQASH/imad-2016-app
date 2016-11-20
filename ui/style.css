@@ -1,0 +1,132 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(245, 245, 220);
+    background-image: url("http://th-seo.com/wp-content/uploads/2015/07/710727238.jpg");
+    background-position: center;
+    background-size: cover;
+    margin-top: 75px;
+}
+
+.center {
+    text-align: center;
+}
+
+.text-big {
+    font-size: 300%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.img-medium {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.container{
+                max-width: 750px;
+                margin: 0 auto;
+                background-color: linen;
+                padding: 20px 20px 20px 20px;
+                font-family: monospace;
+                border-radius: 200px;
+                border-style: double;
+                border-width: thick;
+                border-color: rgb(141,22,13);
+}
+
+.content
+{
+    font-size: x-large;
+    margin-bottom: 15px;
+}
+
+.poet {
+    font-style: italic;
+}
+
+.footer {
+    padding-top: 15px;
+    color: darkblue;
+    font-weight: bold;
+    font-size: large;
+}
+
+.comment {
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+
+.commenter {
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+.title {
+    color: rgb(141,22,13);
+    font-family: monospace;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: large;
+    font-weight: bold;
+    border-style: double;
+    border-radius: 10px;
+    background-color: linen;
+    padding: 5px;
+}
+
+#comment_form {
+    margin: 0 auto;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    width: 80%;
+}
+
+div{
+    display: block;
+    margin: 0 auto;
+    color: chocolate;
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+h3 {
+    color: red;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+p {
+    color: chocolate;
+    font-size: large;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+img {
+    padding: 20px;
+}
+
+a {
+    font-size: inherit;
+    font-variant: small-caps;
+    color: inherit;
+    padding: 15px;
+    
+}
+
+textarea {
+    width: 300px;
+    height: 150px;
+}
+
+hr {
+    width: 80%;
+}
